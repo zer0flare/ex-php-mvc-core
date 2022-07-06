@@ -1,0 +1,15 @@
+{
+    "name": "ex/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Ex\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zer0flare",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}
