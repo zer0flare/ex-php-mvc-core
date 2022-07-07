@@ -1,5 +1,5 @@
 {
-    "name": "ex/php-mvc-core",
+    "name": "zer0flare/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Ex\\PhpMvcCore\\": "src/"
